@@ -1,2 +1,2 @@
-# Chatbot2997
-AI  Based Chatbot
+# Sbot
+Basic ML based chatbot
